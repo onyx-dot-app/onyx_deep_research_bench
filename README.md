@@ -31,8 +31,13 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 | 12 | Claude Research | 45.00 | 45.34 | 42.79 | 47.58 | 44.66 |
 | 17 | Perplexity Deep Research | 40.46 | 39.1 | 35.65 | 46.11 | 43.08 |
 
-# Onyx Deep Research Demo
-<div align="center"><video src="assets/demo_compressed.mp4" controls width="100%"></video></div>
+# Onyx Deep Research
+<div align="center">
+  <img src="assets/DeepResearchInput.png" alt="Input" width="48%"/>
+  <img src="assets/DeepResearchPlan.png" alt="Plan" width="48%"/><br/>
+  <img src="assets/DeepResearchAgent.png" alt="Agent" width="48%"/>
+  <img src="assets/DeepResearchAnswer.png" alt="Answer" width="48%"/>
+</div>
 
 # Additional Info
 Onyx is a production system with an emphasis on user experience. Additional product/UX constraints that we feel are important which were taken into account for the generation of the answers for the benchmark are as follows:
