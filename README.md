@@ -3,7 +3,7 @@
 
 # Overview
 
-This repository contains the Onyx submission to the [Deep Research Benchmark](https://github.com/Ayanami0730/deep_research_bench).
+This repository contains the [Onyx](https://www.onyx.app/) submission to the [Deep Research Benchmark](https://github.com/Ayanami0730/deep_research_bench).
 
 The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 
