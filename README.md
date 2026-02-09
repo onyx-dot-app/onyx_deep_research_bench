@@ -11,9 +11,9 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
 |:----:|-------|:-------:|:----:|:-------:|:--:|:----:|
-| 1 | Onyx | **54.92** | **55.07** | **57.10** | **52.99** | <u>52.41</u> |
-| 2 | Cellcog | <u>54.54</u> | <u>54.43</u> | <u>56.22</u> | <u>52.76</u> | **53.14** |
-| 3 | Qianfan-DeepResearch Pro| 54.22 | **55.07** | 56.09 | 51.77 | 52.12 |
+| 1 | Onyx | **54.92** 🥇 | **55.07** 🥇 | **57.10** 🥇 | **52.99** 🥇 | *52.41* 🥈 |
+| 2 | Cellcog | *54.54* 🥈 | *54.43* 🥈 | *56.22* 🥈 | *52.76* 🥈 | **53.14** 🥇 |
+| 3 | Qianfan-DeepResearch Pro| 54.22 | **55.07** 🥇 | 56.09 | 51.77 | 52.12 |
 | 4 | Qianfan-DeepResearch | 53.07 | 52.65 | 55.44 | 51.61 | 51.21 |
 | 5 | Tavily Research | 52.44 | 52.84 | 53.59 | 51.92 | 49.21 |
 | 6 | Thinkdepthai DeepResearch | 52.43 | 52.02 | 53.88 | 52.04 | 50.12 |
@@ -22,7 +22,7 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 | 9 | Gemini 2.5 Pro Deep Research | 49.71 | 49.51 | 49.45 | 50.12 | 50.00 |
 | 10 | LangChain Open Deep Research (GPT-5 with Tavily) | 49.33 | 49.80 | 47.34 | 51.05 | 48.99 |
 
-<small>*Note*: Scores shown in **bold** for highest performance and <u>underline</u> for second best.</small>
+> **Legend:** 🥇 = best in column · 🥈 = second best · **Bold** = 1st place · *Italic* = 2nd place
 
 ### Other Notable Mentions:
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
@@ -32,7 +32,7 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 | 17 | Perplexity Deep Research | 40.46 | 39.1 | 35.65 | 46.11 | 43.08 |
 
 # Onyx Deep Research Demo
-<div align="center"><video src="assets/demo.mp4" controls width="100%"></video></div>
+<div align="center"><video src="assets/demo_compressed.mp4" controls width="100%"></video></div>
 
 # Additional Info
 Onyx is a production system with an emphasis on user experience. Additional product/UX constraints that we feel are important which were taken into account for the generation of the answers for the benchmark are as follows:
