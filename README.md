@@ -22,7 +22,7 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 | 9 | Gemini 2.5 Pro Deep Research | 49.71 | 49.51 | 49.45 | 50.12 | 50.00 |
 | 10 | LangChain Open Deep Research (GPT-5 with Tavily) | 49.33 | 49.80 | 47.34 | 51.05 | 48.99 |
 
-> **Legend:** 🥇 = best in column · 🥈 = second best · **Bold** = 1st place · *Italic* = 2nd place
+> **Legend:** 🥇 = best in column · 🥈 = second best
 
 ### Other Notable Mentions:
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
