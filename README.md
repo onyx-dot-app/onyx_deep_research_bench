@@ -24,7 +24,7 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 
 > **Legend:** 🥇 = best in column · 🥈 = second best
 
-### Comparisons Against Major Proprietary Providers*:
+### Deep Research Comparisons Against Major Proprietary Providers*:
 > Note: Intermediate rankings have been omitted; only select major proprietary providers are shown for comparison. 
 
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
