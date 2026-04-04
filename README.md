@@ -24,12 +24,17 @@ The latest leaderboard can be accessed here: [Deep Research Benchmark Leaderboar
 
 > **Legend:** 🥇 = best in column · 🥈 = second best
 
-### Other Notable Mentions:
+### Comparisons Against Major Proprietary Providers*:
+> Note: Intermediate rankings have been omitted; only select major proprietary providers are shown for comparison. 
+
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
 |:----:|-------|:-------:|:----:|:-------:|:--:|:----:|
+| 1 | Onyx | 54.54 | 54.67 | 56.43 | 53.08 | 52.02 |
 | 11 | OpenAI Deep Research | 46.45 | 46.46 | 43.73 | 49.39 | 47.22 |
 | 12 | Claude Research | 45.00 | 45.34 | 42.79 | 47.58 | 44.66 |
 | 17 | Perplexity Deep Research | 40.46 | 39.1 | 35.65 | 46.11 | 43.08 |
+
+*Leaderboard as of Feb 2026
 
 # Onyx Deep Research
 <div align="center">
